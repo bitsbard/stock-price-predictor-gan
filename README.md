@@ -1,0 +1,2 @@
+# StockPredictionAi
+Stock prediction model
